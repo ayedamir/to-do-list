@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bold-guru-443210-i4",
+  "private_key_id": "f4d56f36301968fb20d7aa0e322ec7959673bd4e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCN4X+XRVxLSRtL\nIh/FW+27xboeGIJseeXPTROaQpcwmrQlF5kW5rf62njg7w6r68gedYo57MQAeRmv\nKASTwMhhoxkXk83mRJod9TK/U2OmTOYCnz5UFfSl6QFfYh7cnk8Iur/IbjWr8wph\npKRx6Re0pqRnnNMXY6Te+iWaI7z7SAdTOFnNIToRd2WCQvtIZRSamUOfCCEJi/wM\n3QbhpHS9hC5cpGnidCBDR09/PDy60yrZUmNVjjCTVgwstD4n7ovSqNirK2T1I5oj\nQCuD0G4jzylyc6NUt35wSpZY6lME8bZ7yWEyL/9/YTg9ICDPW+URStTsIO3R46Zn\nTaWfgoU5AgMBAAECggEAQDr2zR+sYbTN81yWb31niZtA38EOwlcI76kgF7TPx0Qy\nC5y8RH7ciWcAVCxFQxVxukBR/FkwflpUg1QlhlI/JNx2TpMuInGqJ6fKeo0gzrd/\nZW58BAsQf0+VvH2qJQxSEUyh5/XkvFxBteSYQa1ZewH56aI4eh01FXC/NyG4uzS6\n9S3q++NPNzupydR7KhWIjam3PCuZ1qkYhdajxAiL3ruYMNEKdPioOdxYH/cWXpHi\nrBDBWR/b+lbcFwdqCIog6jZCb6mmRbfNvYU6An1V8p644ZKxKJeLh8crCgY5WM3+\nZbThCKMgjQOiWjF5H+5ITa2sWbpqZj4ljkPbieUt9QKBgQC/KXqO1lKVcgksJV92\neAchEr6jxEyPa0Qz8iSwz/Lvn6/GVJOnTL3NdhVwsedmlNbM6YJhuCY6O9wEYlUJ\npMGUGvIaiTMJsYcdnlIYJJ38P5x6rF8TQCCcq1iHjrULi16zWCl+/lcQonz6E878\n8x27wj6ct9CGP7+s4J3XMN+GSwKBgQC+APSS8NED17T4IHphUeR9k7ClweATebjL\n755/Re+/87xXkJEf2/KOuxq+9/9nCqyes/YZBDjQqMAQhgeQhwozCS7WctYGLMnD\n1wWrjketClbFhBoCfgqQSYr3MqMS+FMStSap3vnJ9RfP+ft5JmAsS2pSdSABipgv\ngK+0W99ACwKBgE8p2js0vlZtNyc1AueIpUso/BHNxPbPsRrh+BfQxgY91wkHFW5+\n9UsUz6QvyGhO0vVg7kGRhSMwjtix8A1iUVgIIKKklqI5Bn9ZhR3CbDp+DUsv/t91\n+wtmWe8pRghV2w3iQKz6nwugfqkBcwKFm5aZxlwYMx6lX7cz/amT770pAoGAdSuj\np4YIb2UzfZyRu7hDvsk4M1AW/gufUWxIgtY/HlGRgTJuvIXn0+tAeCn5f7LOduQl\nzJGU8+BM6SOuQIt2V7i/AJI6t/4gwru0DHKmcuigUBfB7m2J2CbyIrVAaW9n026R\nFEqkIc4aTDAtyy1GO6qaO5VtEmZEqW6jbAcH6rcCgYEAg0rU85AscRlZ7ihRpFUz\nhzC4QdO56VIqwDalRrgctJLBptu/qMQdVQ6R4oxlt3EGRdvLZPBfUgaB9bsA/K8r\n4ewimNUR1t3LUiJHzp/dHyBOV0zreYG/RjEGnqMAavo80hxlRS789vRyfhaLYEQ4\nnVITE9YFF0tDH6lXPYM/E2g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-to-do-list@bold-guru-443210-i4.iam.gserviceaccount.com",
+  "client_id": "107663543928056681792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-to-do-list%40bold-guru-443210-i4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
